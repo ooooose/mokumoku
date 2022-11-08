@@ -29,6 +29,9 @@
 /public/assets
 .byebug_history
 
+# 個人的なバージョン管理ツールを無視
+.tool-versions
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 
